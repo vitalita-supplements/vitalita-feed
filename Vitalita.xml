@@ -17,7 +17,7 @@ This XML file does not appear to have any style information associated with it. 
 <offers>
 <offer id="6a9b5c1f" available="true">
 <categoryId>106314</categoryId>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>35</stock_quantity>
 <url/>
 <price>799</price>
 <currencyId>UAH</currencyId>
