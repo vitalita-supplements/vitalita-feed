@@ -14,7 +14,7 @@
 <category id="106319">Стимулятори тестостерону</category>
 </categories>
 <offers>
-<offer id="6a9b5c1f" available="true">
+<offer id="4820260990110" available="true">
 <categoryId>106314</categoryId>
 <stock_quantity>35</stock_quantity>
 <url/>
@@ -54,7 +54,7 @@
 <article>4820260990110</article>
 <param name="Доставка/Оплата">Доставка Новою Поштою: 1-2 дні.</param>
 </offer>
-<offer id="14ab6e3a" available="true">
+<offer id="4820260990127" available="true">
 <categoryId>106319</categoryId>
 <stock_quantity>7</stock_quantity>
 <url/>
@@ -91,7 +91,7 @@
 <article>4820260990127</article>
 <param name="Доставка/Оплата">Доставка Новою Поштою: 1-2 дні.</param>
 </offer>
-<offer id="71b324e2" available="true">
+<offer id="4820260990028" available="true">
 <categoryId>103955</categoryId>
 <stock_quantity>111</stock_quantity>
 <url/>
@@ -139,7 +139,7 @@
 <article>4820260990028</article>
 <param name="Доставка/Оплата">Доставка Новою Поштою: 1-2 дні.</param>
 </offer>
-<offer id="b600e197" available="true">
+<offer id="4820260990042" available="true">
 <categoryId>106317</categoryId>
 <stock_quantity>15</stock_quantity>
 <url/>
@@ -183,7 +183,7 @@
 <article>4820260990042</article>
 <param name="Доставка/Оплата">Доставка Новою Поштою: 1-2 дні.</param>
 </offer>
-<offer id="b186b5ce" available="true">
+<offer id="4820260990066" available="true">
 <categoryId>106314</categoryId>
 <stock_quantity>6</stock_quantity>
 <url/>
@@ -229,7 +229,7 @@
 <article>4820260990066</article>
 <param name="Доставка/Оплата">Доставка Новою Поштою: 1-2 дні.</param>
 </offer>
-<offer id="0edb75c7" available="true">
+<offer id="4820260990080" available="true">
 <categoryId>106317</categoryId>
 <stock_quantity>69</stock_quantity>
 <url/>
@@ -275,7 +275,7 @@
 <article>4820260990080</article>
 <param name="Доставка/Оплата">Доставка Новою Поштою: 1-2 дні.</param>
 </offer>
-<offer id="5875fa9b" available="true">
+<offer id="4820260990103" available="true">
 <categoryId>274390</categoryId>
 <stock_quantity>19</stock_quantity>
 <url/>
@@ -313,7 +313,7 @@
 <article>4820260990103</article>
 <param name="Доставка/Оплата">Доставка Новою Поштою: 1-2 дні.</param>
 </offer>
-<offer id="4781697c" available="true">
+<offer id="4820260990097" available="true">
 <categoryId>274390</categoryId>
 <stock_quantity>7</stock_quantity>
 <url/>
