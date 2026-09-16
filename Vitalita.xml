@@ -10,7 +10,7 @@
 <category id="103955">Амінокислоти</category>
 <category id="106314">Вітаміни та мінерали</category>
 <category id="274390">Натуральні добавки і екстракти</category>
-<category id="106317">Риб'ячий жир та омега</category>
+<category id="4653717">Риб'ячий жир та омега</category>
 <category id="106319">Стимулятори тестостерону</category>
 </categories>
 <offers>
@@ -140,7 +140,7 @@
 <param name="Доставка/Оплата">Доставка Новою Поштою: 1-2 дні.</param>
 </offer>
 <offer id="4820260990042" available="true">
-<categoryId>106317</categoryId>
+<categoryId>4653717</categoryId>
 <stock_quantity>15</stock_quantity>
 <url/>
 <price>630</price>
@@ -230,7 +230,7 @@
 <param name="Доставка/Оплата">Доставка Новою Поштою: 1-2 дні.</param>
 </offer>
 <offer id="4820260990080" available="true">
-<categoryId>106317</categoryId>
+<categoryId>4653717</categoryId>
 <stock_quantity>69</stock_quantity>
 <url/>
 <price>1350</price>
