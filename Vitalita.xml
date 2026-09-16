@@ -1,4 +1,4 @@
-<yml_catalog date="2026-09-16 16:18">
+<yml_catalog date="2026-09-16 16:45">
 <shop>
 <name>VITALITA</name>
 <company>VITALITA</company>
@@ -187,8 +187,8 @@
 <categoryId>106314</categoryId>
 <stock_quantity>6</stock_quantity>
 <url/>
-<price>999</price>
-<price_old>1099</price_old>
+<price>1099</price>
+<price_old>1199</price_old>
 <currencyId>UAH</currencyId>
 <picture>https://res.cloudinary.com/iuqmc0vk/image/upload/v1789564149/Bronze_main.jpg</picture>
 <picture>https://res.cloudinary.com/iuqmc0vk/image/upload/v1789564151/Bronze_2.jpg</picture>
